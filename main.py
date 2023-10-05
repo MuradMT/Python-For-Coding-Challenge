@@ -13,6 +13,13 @@ n='89gh'
 print('n=',n)
 
 
+#-Get inputs from screen
+name=input() # gets string from screen
+num=int(input()) # gets integer from screen
+names=input().split() # obtains integer from screen
+numbers=map(int,input().split()) # obtains integers from screen at the same line
+
+
 #-Multiple Assigment
 n,m='0','900'
 print(n+m) # cannot concatenate int and string
