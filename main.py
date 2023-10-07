@@ -9,6 +9,7 @@
 # print(numbers)
 #for _ in range(MAX)]-if you want loop without index use this
 #0<m<n-you can write statements like this
+#input.strip()-strip method same with c# trim
 
 #Section 1-Variables
 
