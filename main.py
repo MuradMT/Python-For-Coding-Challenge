@@ -2,6 +2,14 @@
 #Basic things is not adressed
 #Key points of python is demonstrated
 
+
+#-Some tips in python:
+# Get number dynamically from screen in python: n = int(input())
+# numbers = [int(num) for num in input().split(" ", n)]
+# print(numbers)
+#for _ in range(MAX)]-if you want loop without index use this
+#0<m<n-you can write statements like this
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
@@ -16,7 +24,7 @@ print('n=',n)
 #-Get inputs from screen
 name=input() # gets string from screen
 num=int(input()) # gets integer from screen
-names=input().split() # obtains integer from screen
+names=input().split() # obtains strings from screen at the same line
 numbers=map(int,input().split()) # obtains integers from screen at the same line
 
 
