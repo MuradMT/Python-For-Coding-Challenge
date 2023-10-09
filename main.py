@@ -141,7 +141,8 @@ print(math.pow(2,500)<float('inf'))
 arr=[1,2,3]
 print(arr[len(arr)-1]) #len(arr) gives us a length of array
 arr[0]=19
-print(arr)
+print(arr) # prints like this [19,2,3]
+print(*arr) # prints like this 19 2 3
 n=5
 arr1=[1]*n #one of the ways of array creation in python
 print(arr1)
