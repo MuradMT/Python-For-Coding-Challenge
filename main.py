@@ -7,6 +7,8 @@
 # Get number dynamically from screen in python: n = int(input())
 # numbers = [int(num) for num in input().split(" ", n)]
 # print(numbers)
+#Or do like this(generally this used in eolimp):
+#num=list(map(int,input().split()))
 #for _ in range(MAX)]-if you want loop without index use this
 #0<m<n-you can write statements like this
 #input.strip()-strip method same with c# trim
@@ -26,7 +28,7 @@ print('n=',n)
 name=input() # gets string from screen
 num=int(input()) # gets integer from screen
 names=input().split() # obtains strings from screen at the same line
-numbers=map(int,input().split()) # obtains integers from screen at the same line
+n,m=map(int,input().split()) # obtains integers from screen at the same line
 
 
 #-Multiple Assigment
