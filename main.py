@@ -62,6 +62,11 @@ else:
     print(-1)
 
 
+#-Ternary operator python
+n=int(input())
+print("ODD" if n%2!=0 else "EVEN")
+
+
 #-Logical Operators
 #and-&& or-||
 #in multi line condition you need paranthesis
