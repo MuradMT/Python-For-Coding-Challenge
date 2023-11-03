@@ -12,6 +12,8 @@
 #for _ in range(MAX)]-if you want loop without index use this
 #0<m<n-you can write statements like this
 #input.strip()-strip method same with c# trim
+#print(f"{arr[0] + arr[1]:.4f}")-you can write
+# four decimal places of float number
 
 #Section 1-Variables
 
