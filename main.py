@@ -24,6 +24,9 @@
 #print(7+4.5)->this is implicit conversion example
 #print('8'+str(7))->this is explicit conversion example
 
+#Statement vs expression difference
+#age=iq/5 -> iq/5 is expression,age=iq/5 is statement
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
