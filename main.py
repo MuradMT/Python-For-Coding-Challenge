@@ -19,6 +19,10 @@
 #print(type(('a')))-type keyword checks the type of variables
 
 #name:str='Murad'->it is python variable annotation by type,you explicitly say it to your program
+#at first import typing,otherwise it wont work
+
+#print(7+4.5)->this is implicit conversion example
+#print('8'+str(7))->this is explicit conversion example
 
 #Section 1-Variables
 
