@@ -3,6 +3,7 @@
 #Key points of python is demonstrated
 
 
+
 #-Some tips in python:
 # Get number dynamically from screen in python: n = int(input())
 # numbers = [int(num) for num in input().split(" ", n)]
@@ -14,6 +15,7 @@
 #input.strip()-strip method same with c# trim
 #print(f"{arr[0] + arr[1]:.4f}")-you can write
 # four decimal places of float number
+#print(type(('a')))-type keyword checks the type of variables
 
 #Section 1-Variables
 
