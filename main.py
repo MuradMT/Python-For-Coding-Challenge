@@ -55,6 +55,11 @@
 #numbers=[1, 2, 3, 4, 5] 
 #sqrs_of_numbers=map(square, numbers)
 
+#zip example
+#numbers = [1,2,3]
+#str_numbers = ['One','Two','Three']
+#result = zip(numbers, str_numbers)
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
