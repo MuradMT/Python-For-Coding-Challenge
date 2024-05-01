@@ -203,6 +203,7 @@ import math
 print(math.floor(3/2)) #result is decimal
 print(math.ceil(3/2))
 print(round(2.3)) #traditional rounding comes built-in ,without any dependency to math library
+print(round(6.8778, 2)) #only prints 6.88
 print(math.pow(2,2)) #2**2 is also an operator and alternative for this pow function
 print(math.sqrt(16))
 
