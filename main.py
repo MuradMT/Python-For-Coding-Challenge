@@ -345,6 +345,7 @@ print(name.strip())#rstrip lstrip
 print(name.split())
 print(name.endswith('e')) #startswith
 print(name.isnumeric()) #'12345' is true
+print(name.isalpha())#checks if all text is contains only characters
 print(name.count())
 
 
