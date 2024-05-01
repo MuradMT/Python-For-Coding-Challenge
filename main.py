@@ -298,6 +298,8 @@ print(arr)
 #another example
 arr1=[i**i for i in range(5)]
 print(arr1)
+#advanced form of list comprehension
+new_filenames = [x.split('.')[0] + '.h' if x.endswith('.hpp') else x for x in filenames]
 
 
 #-2D Arrays-i only show the syntax
@@ -398,6 +400,7 @@ mymap['murad']=20
 mymap['some']=25
 mymap['haphazard']=30
 mymap.pop('some')
+By doing del mymap["x"] you would remove the key value pair from the mymap dictionary.
 print(mymap)
 print(len(mymap))
 print(mymap['murad'])
