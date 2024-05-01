@@ -13,8 +13,9 @@
 #for _ in range(MAX)]-if you want loop without index use this
 #0<m<n-you can write statements like this
 #input.strip()-strip method same with c# trim
-#print(f"{arr[0] + arr[1]:.4f}")-you can write
+#print(f"{arr[0] + arr[1]:.4f}")-you can write-string format with f or use .format(x,y)
 # four decimal places of float number
+#print("{:>3} F | {:>6.2f} C".format(x, to_celsius(x)))-align text with > to right 3 space 
 
 #print(type(('a')))-type keyword checks the type of variables
 
