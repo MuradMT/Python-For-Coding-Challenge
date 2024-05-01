@@ -321,6 +321,7 @@ print(darr)
 
 #-String General
 name='murad' #or "murad"
+print(name.index('m'))->gives specific position of character
 print(name[0:2])#string slicing
 #strings is immutable,we can't do this:name[0]='hi'
 name+='xy' # concatenates new word to existing string ,complexity would be O(N)
