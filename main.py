@@ -67,6 +67,15 @@
 # print(x[::1])
 # print(x[::-1])
 
+#recursion->imagine you are in a queue,there are 6 person here
+#last person ask in front of him how many people left after  you
+#and when you finish to latest one,then you come back with answers
+#this is how recursion works
+# def factorial(n):
+#   if n < 2:
+#     return 1
+#   return n * factorial(n-1)
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
