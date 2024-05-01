@@ -91,6 +91,10 @@ def is_power_of(number, base):
     # Recursive case: keep dividing number by base.
     return is_power_of(number//base, base)
 
+#OOP instance methods,@classmethod,@staticmethod
+#init,str,len,contains,eq
+# """Documentation for the function."""-docstring
+
 
 #Section 1-Variables
 
