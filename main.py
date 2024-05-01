@@ -351,6 +351,7 @@ print(name.isnumeric()) #'12345' is true
 print(name.isalpha())#checks if all text is contains only characters
 print(name.count('e'))
 print(name.replace('a','hello'))
+print(name.rfind('a'))#->lastindexof
 
 
 #Section 7-Queue
