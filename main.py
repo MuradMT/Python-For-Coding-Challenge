@@ -27,6 +27,14 @@
 #Statement vs expression difference
 #age=iq/5 -> iq/5 is expression,age=iq/5 is statement
 
+#for i in range(3):
+#    print('hello',end=' ')
+#end->helps you to write codes in the same line and do not create new line
+
+#mylist=[1,2] 
+#print(mylist[::-1])
+#prints array in reversed form
+
 #Sorted build in function
 #time_list = [12, 2, 32, 19, 57, 22, 14]
 #print(sorted(time_list))
