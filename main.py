@@ -16,6 +16,7 @@
 #print(f"{arr[0] + arr[1]:.4f}")-you can write-string format with f or use .format(x,y)
 # four decimal places of float number
 #print("{:>3} F | {:>6.2f} C".format(x, to_celsius(x)))-align text with > to right 3 space 
+#formatting expressions d(int),f(float),s(string)
 
 #print(type(('a')))-type keyword checks the type of variables
 
