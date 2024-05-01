@@ -76,6 +76,18 @@
 #     return 1
 #   return n * factorial(n-1)
 
+#finding power of number with recursion
+def is_power_of(number, base):
+ # Base case: when number is smaller than base.
+    if number <base:
+        # If number is equal to 1, it's a power (base**0).
+        return False
+    elif number==base:
+        return True
+    # Recursive case: keep dividing number by base.
+    return is_power_of(number//base, base)
+
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
