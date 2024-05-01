@@ -47,6 +47,14 @@
 
 #we can do branching with conditionals such as if
 
+
+#map(function, iterables)->structure of map
+#example of map
+#def square(x):
+#   return x*x
+#numbers=[1, 2, 3, 4, 5] 
+#sqrs_of_numbers=map(square, numbers)
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
