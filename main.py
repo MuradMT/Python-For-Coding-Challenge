@@ -27,6 +27,18 @@
 #Statement vs expression difference
 #age=iq/5 -> iq/5 is expression,age=iq/5 is statement
 
+#Sorted build in function
+#time_list = [12, 2, 32, 19, 57, 22, 14]
+#print(sorted(time_list))
+#print(time_list)
+
+#Min Max build in function
+# time_list = [12, 2, 32, 19, 57, 22, 14]
+# print(min(time_list))
+# print(max(time_list))
+
+#we can do branching with conditionals such as if
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
