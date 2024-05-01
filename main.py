@@ -334,9 +334,17 @@ print(ord('a'))  # gives us ascii table position of character
 print(len(name)) # same with array
 strings=['mu','r','ad']
 myname=''.join(strings) #  all array items was congagrated by join function and created a new united string
+#''.join->'' says that what is the connector you can use ',' like this
 print(myname)
 #you can look at on internet for useful string methods,
 # this knowledge is enough to tackle with string problems
+#string methods
+print(name.upper())# lower
+print(name.strip())#rstrip lstrip
+print(name.split())
+print(name.endswith('e')) #startswith
+print(name.isnumeric()) #'12345' is true
+print(name.count())
 
 
 #Section 7-Queue
