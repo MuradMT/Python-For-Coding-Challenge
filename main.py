@@ -60,6 +60,13 @@
 #str_numbers = ['One','Two','Three']
 #result = zip(numbers, str_numbers)
 
+#slicing and striding examples
+# x='hello world'
+# print(x[0::2])
+# print(x[0:6:2])
+# print(x[::1])
+# print(x[::-1])
+
 #Section 1-Variables
 
 #Comments created with #,shortcut for comments is ctrl+/,
