@@ -17,6 +17,8 @@
 # four decimal places of float number
 #print("{:>3} F | {:>6.2f} C".format(x, to_celsius(x)))-align text with > to right 3 space 
 #formatting expressions d(int),f(float),s(string)
+#add in front of string letter text=letter+text
+#add in end of text  of string letter text=text+letter
 
 #print(type(('a')))-type keyword checks the type of variables
 
