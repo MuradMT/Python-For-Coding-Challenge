@@ -43,6 +43,10 @@
 #time_list = [12, 2, 32, 19, 57, 22, 14]
 #print(sorted(time_list))
 #print(time_list)
+# names = ["Carlos", "Ray", "Alex", "Kelly"]
+# print(sorted(names))
+# print(names)
+# print(sorted(names, key=len))
 
 #Min Max build in function
 # time_list = [12, 2, 32, 19, 57, 22, 14]
